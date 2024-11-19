@@ -13,18 +13,9 @@ int main(){
 	// tinh dien tich hinh tron = 3.14*r*r
 	float dientich = pi*r*r;
 	
-	printf(" ban kinh hinh tron : %.2f\n", r);
-    printf(" chu vi  hinh tron : %.2f\n", chuvi);
-    printf(" dien ticih hinh tron : %.2f\n", dientich );
-
-
-
-
-
-
-
-
-
+	printf(" ban kinh hinh tron : %f\n", r);
+    printf(" chu vi  hinh tron : %f\n", chuvi);
+    printf(" dien ticih hinh tron : %f\n", dientich );
 
 
     return 0;
